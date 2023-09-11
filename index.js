@@ -47,5 +47,5 @@ setInterval(randomGifs, 250 * 60, client);
   client.once("ready", () => {
     console.log("online!");
    })
-   client.login("MTE1MDgzMDA2NzYwNjM2MDA2NQ.G1EsPd.xTd7hdPmI4YTp_HNVB0TtzqY4HM1zZ_NoGN00I")
+   client.login("MTE1MDgz")
    
